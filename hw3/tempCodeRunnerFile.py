@@ -1,0 +1,1 @@
+np.save('dct_1d', dct_1d)
